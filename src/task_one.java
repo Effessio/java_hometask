@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.*;
 
-public class hw_1 {
+public class task_one {
 
     public static void main(String[] args){
         HashMap<String, Integer> temp_user_data = new HashMap<String, Integer>();
